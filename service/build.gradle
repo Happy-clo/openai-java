@@ -18,6 +18,3 @@ compileJava {
     targetCompatibility = '1.8'
 }
 
-test {
-    useJUnitPlatform()
-}
