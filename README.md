@@ -213,6 +213,8 @@ I won't remove the old endpoints from this library until OpenAI shuts them down.
 
 ## License
 Published under the MIT License
+> [!CAUTION]  
+> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
 # Statement
 
 > [!CAUTION]  
